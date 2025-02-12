@@ -15,16 +15,18 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
   *University of Trento, Dec 2019*
 
 ### 🔬 Research & Publications
-- **"Mind the CORS" (2023)** by Matteo Golinelli, Elham Arshad, **Dmytro Kashchuk**, and Bruno Crispo - IEEE-TPS 2023  
-  Presented at the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications. This study identified Cross-Origin Resource Sharing (CORS) flaws in 29.4% of the top 50k websites, highlighting significant risks related to Denial of Service attacks and potential data breaches.
+- **"Mind the CORS" (2023)** – IEEE-TPS 2023  
+  *Authors: Matteo Golinelli, Elham Arshad, **Dmytro Kashchuk**, and Bruno Crispo*  
+  Presented at the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA). This study conducted a large-scale analysis of Cross-Origin Resource Sharing (CORS) configurations across the Tranco Top 50k websites, revealing security flaws in **29.4%** of them. The research highlights critical risks, including **Denial of Service (DoS) attacks**, emphasizing the real-world exploitability of these vulnerabilities.  
 
-For more details on the research, [see the full paper](https://ieeexplore.ieee.org/document/10431636).
+  📄 **Read the full paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10431636)
+
 
 ### 💡 Projects
 - **Java E-commerce Platform**  
   Developed a web-based e-commerce platform using JSP with a real-time chat feature via WebSocket.
 - **Telegram Content Crawler**  
-  Co-founded a tool to detect and remove illicit content from Telegram channels, assisting agencies in preventing the spread of harmful content.
+  Co-founded a tool to detect and remove illicit (GORE) content from Telegram channels, assisting national and international agencies in preventing the spread of harmful content.
 - **Python Financial Planner**  
   Created an expense categorization tool using the LLAMA 3 Model.
 
