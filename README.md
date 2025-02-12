@@ -1,7 +1,9 @@
-# 👋 Hello, I'm Dmytro Kashchuk
+# 👋 Hello, I'm Dmytro (Dima) Kashchuk
+- 📧 dmytro-kashchuk@utulsa.edu
 
 ## 👨‍💻 About Me
 I'm a PhD student in Cyber Security and Economics at the University of Tulsa. With a strong foundation in computer science, economics, and cybersecurity, I focus on researching large-scale vulnerability scanning and improving internet security practices.
+
 
 ### 🎓 Education
 - **Ph.D. in Cyber Security and Economics**  
@@ -48,14 +50,13 @@ I'm deepening my expertise in advanced cybersecurity techniques, vulnerability s
 ### 💬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/dmytrokashchuk)
 - [Medium](https://medium.com/@dmytrokashchuk)
-- 📧 Email: dmytro-kashchuk@utulsa.edu
 
 ### ⚡ Outiste Academia
-🎮 Capture The Flag enthusiast and Hack The Box participant
-💡 Passionate about investing in the stock market
-⚽ Amateur soccer player
-✈️ Love exploring new places and experiencing unique adventures
-🎮 Player in the TU League of Legends Esports team
+- 🎮 Capture The Flag enthusiast and Hack The Box participant
+- 💡 Passionate about investing in the stock market
+- ⚽ Amateur soccer player
+- ✈️ Love exploring new places and experiencing unique adventures
+- 🎮 Player in the TU League of Legends Esports team
 
 Feel free to connect and collaborate on cybersecurity projects or research initiatives!
 
