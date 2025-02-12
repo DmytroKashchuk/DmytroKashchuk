@@ -15,8 +15,10 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
   *University of Trento, Dec 2019*
 
 ### 🔬 Research & Publications
-- **"Mind the CORS" (2023)** - IEEE-TPS 2023  
-  Identified Cross-Origin Resource Sharing (CORS) flaws in 29.4% of the top 50k websites. Highlighted risks related to DoS attacks and data breaches.
+- **"Mind the CORS" (2023)** by Matteo Golinelli, Elham Arshad, **Dmytro Kashchuk**, and Bruno Crispo - IEEE-TPS 2023  
+  Presented at the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications. This study identified Cross-Origin Resource Sharing (CORS) flaws in 29.4% of the top 50k websites, highlighting significant risks related to Denial of Service attacks and potential data breaches.
+
+For more details on the research, [see the full paper](https://ieeexplore.ieee.org/document/10431636).
 
 ### 💡 Projects
 - **Java E-commerce Platform**  
