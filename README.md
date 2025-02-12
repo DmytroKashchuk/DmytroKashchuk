@@ -6,7 +6,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 ### 🎓 Education
 - **Ph.D. in Cyber Security and Economics**  
   *University of Tulsa, Aug 2024 - Present*  
-  Focus: Large-scale vulnerability scanning
+  Focus: Large-scale vulnerability scanning and Enterprise Security
 
 - **M.S. in Computer Science and Cyber Security**  
   *University of Trento, Sep 2020 - Jun 2023*
@@ -46,11 +46,12 @@ I'm deepening my expertise in advanced cybersecurity techniques, vulnerability s
 - [Medium](https://medium.com/@dmytrokashchuk)
 - 📧 Email: dmytro-kashchuk@utulsa.edu
 
-### ⚡ Fun Facts
-- 🎮 Capture The Flag enthusiast and Hack The Box participant
-- 💡 Passionate about investing in the stock market
-- ⚽ Amateur soccer player
-- ✈️ Love exploring new places and experiencing unique adventures
+### ⚡ Outiste Academia
+🎮 Capture The Flag enthusiast and Hack The Box participant
+💡 Passionate about investing in the stock market
+⚽ Amateur soccer player
+✈️ Love exploring new places and experiencing unique adventures
+🎮 Player in the TU League of Legends Esports team
 
 Feel free to connect and collaborate on cybersecurity projects or research initiatives!
 
