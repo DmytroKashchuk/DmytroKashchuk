@@ -4,7 +4,6 @@
 ## 👨‍💻 About Me
 I'm a PhD student in Cyber Security and Economics at the University of Tulsa. With a strong foundation in computer science, economics, and cybersecurity, I focus on researching large-scale vulnerability scanning and improving internet security practices.
 
-
 ### 🎓 Education
 - **Ph.D. in Cyber Security and Economics**  
   *University of Tulsa, Aug 2024 - Present*  
@@ -23,40 +22,51 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 
   📄 **Read the full paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10431636)
 
+### 💼 Experience
+- **Graduate Research Assistant**  
+  *The University of Tulsa Cyber Fellows*  
+  *Aug 2024 - Present*  
+  - Enterprise Security Researcher | TU Cyber Fellow | PhD Student  
+  - Conducting cutting-edge research in vulnerability scanning and enterprise security architectures
+
+- **Cybersecurity Researcher**  
+  *University of Trento*  
+  - Conducted analysis of CORS flaws in top websites and developed a Python scanner to detect vulnerabilities such as DoS attacks and SOP non-compliance
+
+- **Networking Intern**  
+  *University of Trento*  
+  - Created a Raspberry Pi-based Wi-Fi detection system for disaster response, helping locate individuals during natural disasters
+
+- **Internship in Technology and Device Integration**  
+  *Arcese*  
+  *Jun 2015 - Jul 2015*  
+  - Configured smartphones for 150+ employees during company-wide mobile device transition  
+  - Optimized network performance by installing/configuring new routers and switches
 
 ### 💡 Projects
 - **Java E-commerce Platform**  
-  Developed a web-based e-commerce platform using JSP with a real-time chat feature via WebSocket.
+  Developed a web-based e-commerce platform using JSP with real-time chat via WebSocket
 - **Telegram Content Crawler**  
-  Co-founded a tool to detect and remove illicit (GORE) content from Telegram channels, assisting national and international agencies in preventing the spread of harmful content.
+  Co-founded tool to detect/remove illicit content from Telegram channels, assisting law enforcement agencies
 - **Python Financial Planner**  
-  Created an expense categorization tool using the LLAMA 3 Model.
+  Created expense categorization tool using LLAMA 3 Model
 
 ### 🛠️ Skills
 - **Programming Languages:** C#, C++, Python, Java
-- **Web Development:** Frontend and Backend, Networks
+- **Web Development:** Frontend/Backend, Networks
 - **Technologies:** MySQL, Android Programming, Blockchain, Cryptography
 
-### 💼 Experience
-- **Cybersecurity Researcher** at University of Trento  
-  Conducted analysis of CORS flaws in top websites and developed a Python scanner to detect vulnerabilities such as DoS attacks and SOP non-compliance.
-
-- **Networking Intern** at University of Trento  
-  Created a Raspberry Pi-based Wi-Fi detection system for disaster response, helping to locate individuals during natural disasters.
-
 ### 🌱 Currently Learning
-I'm deepening my expertise in advanced cybersecurity techniques, vulnerability scanning, and ethical hacking.
+- Advanced cybersecurity techniques (vulnerability scanning, ethical hacking)
+- Cloud security architectures
 
 ### 💬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/dmytrokashchuk)
 - [Medium](https://medium.com/@dmytrokashchuk)
 
-### ⚡ Outiste Academia
-- 🎮 Capture The Flag enthusiast and Hack The Box participant
-- 💡 Passionate about investing in the stock market
-- ⚽ Amateur soccer player
-- ✈️ Love exploring new places and experiencing unique adventures
-- 🎮 Player in the TU League of Legends Esports team
-
-Feel free to connect and collaborate on cybersecurity projects or research initiatives!
-
+### ⚡ Outside Academia
+- 🎮 CTF enthusiast (Hack The Box Top 10%)
+- 📈 Active stock market investor
+- ⚽ TU Intramural Soccer League
+- ✈️ Traveled to 15+ countries
+- 🎮 TU League of Legends Esports Team Captain
