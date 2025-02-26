@@ -38,7 +38,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Technologies:** MySQL, Android Programming, Blockchain, Cryptography
 
 ### 💼 Experience
- **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
+- **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
  Part-time and on-site
 
 - **Cybersecurity Researcher** @ University of Trento  
