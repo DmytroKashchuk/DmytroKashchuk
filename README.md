@@ -38,10 +38,13 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Technologies:** MySQL, Android Programming, Blockchain, Cryptography
 
 ### 💼 Experience
-- **Cybersecurity Researcher** at University of Trento  
-  Conducted analysis of CORS flaws in top websites and developed a Python scanner to detect vulnerabilities such as DoS attacks and SOP non-compliance.
+ **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
+ Part-time and on-site
 
-- **Networking Intern** at University of Trento  
+- **Cybersecurity Researcher** @ University of Trento  
+  Conducted analysis of CORS flaws in top 50K tranco websites and developed a Python scanner to detect CORS misconfiguration that can lead to DoS attacks.
+
+- **Networking Intern** @ University of Trento  
   Created a Raspberry Pi-based Wi-Fi detection system for disaster response, helping to locate individuals during natural disasters.
 
 ### 🌱 Currently Learning
