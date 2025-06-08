@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Dmytro (Dima) Kashchuk
-- 📧 dmytro-kashchuk@utulsa.edu
+📧 dmytro-kashchuk@utulsa.edu
 
 ## 👨‍💻 About Me
 I'm a PhD student in Cyber Security and Economics at the University of Tulsa. With a strong foundation in computer science, economics, and cybersecurity, I focus on researching large-scale vulnerability scanning and improving internet security practices.
