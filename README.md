@@ -23,6 +23,12 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 
   📄 **Read the full paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10431636)
 
+- **"Measuring enterprise software supply chain security using public repositories" (2025)** – ACM CCS-SCORED 2025  
+  *Authors: **Dmytro Kashchuk**, Tyler Moore* 
+  Presented at ACM CCS 25 - SCORED Workshop. Large-scale SBOM/CVE study of Forbes Global 2000 GitHub repos showing 11.7% vulnerable dependencies, comparable risk in active vs. inactive projects, and widespread reuse of flawed libraries (semver, Log4j); releases the largest public dataset to date.
+
+  📄 **Read the full paper:** [IEEE Xplore](https://tylermoore.utulsa.edu/scored25.pdf)
+
 
 ### 💡 Projects
 - **Java E-commerce Platform**  
