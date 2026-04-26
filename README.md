@@ -19,6 +19,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 
 - **M.S. in Computer Science and Cyber Security**  
   *University of Trento, Sep 2020 - Jun 2023*
+  Track: ICT Innovation
 
 - **B.S. in Information Engineering and Business Organization**  
   *University of Trento, Dec 2019*
