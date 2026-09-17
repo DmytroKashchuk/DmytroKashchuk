@@ -1,23 +1,23 @@
-# 👋 Hello, I'm Dmytro (Dima) Kashchuk
+# Hello, I'm Dmytro (Dima) Kashchuk
+📧 dmytro-kashchuk@utulsa.edu
 ## Enterprise Security Researcher
-### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrokashchuk)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmytrokashchuk)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/387680)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmytroKashchuk)
 
-📧 dmytro-kashchuk@utulsa.edu
+
 
 ## What im working on right now
 - **Web Measurement at Scale** — mapping misconfigurations and exposure across the public web
 - **Systemic Enterprise Risk** — how small failures cascade into org-wide incidents
 - **Software Supply Chain Security** — dependency risk, build integrity, SBOM adoption
 
-## 👨‍💻 About Me
+## About Me
 I'm a PhD student in Cyber Security and Economics at the University of Tulsa. With a strong foundation in computer science, economics, and cybersecurity, I focus on researching large-scale vulnerability scanning and improving internet security practices.
 
 
-### 🎓 Education
+### Education
 - **Ph.D. in Cyber Security and Economics**  
   *University of Tulsa, Aug 2024 - Present*  
   Focus: Software Bill of Materials (SBOM), Large-scale vulnerability scanning and Enterprise Security
@@ -29,7 +29,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **B.S. in Information Engineering and Business Organization**  
   *University of Trento, Dec 2019*
 
-### 🔬 Research & Publications
+### Research & Publications
 
 - **"Measuring enterprise software supply chain security using public repositories" (2025)** – ACM CCS-SCORED 2025  
   *Authors: **Dmytro Kashchuk**, Tyler Moore* 
@@ -45,7 +45,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
   📄 **Read the full paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10431636)
 
 
-### 💡 Projects
+### Projects
 - **Java E-commerce Platform**  
   Developed a web-based e-commerce platform using JSP with a real-time chat feature via WebSocket.
 - **Telegram Content Crawler**  
@@ -53,12 +53,12 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Python Financial Planner**  
   Created an expense categorization tool using the LLAMA 3 Model.
 
-### 🛠️ Skills
+### Skills
 - **Programming Languages:** C#, C++, Python, Java
 - **Web Development:** Frontend and Backend, Networks
 - **Technologies:** MySQL, Android Programming, Blockchain, Cryptography
 
-### 💼 Experience
+### Experience
 - **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
  Part-time and on-site
 
@@ -71,15 +71,15 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Internship in Technology and Device Integration** @ Arcese Spa| May 2016 - Aug 2016 | Arco (TN) - Italy
   Helped move the company from BlackBerry to Nokia—set up everyone’s phones and configured new network devices to make things faster, more reliable, and more secure.
 
-### 🌱 Currently Learning
+### Currently Learning
 I'm deepening my expertise in advanced cybersecurity techniques, vulnerability scanning, and ethical hacking.
 
-### ⚡ Outiste Academia
-- 🎮 Capture The Flag enthusiast and Hack The Box participant
-- 💡 Passionate about investing in the stock market
-- ⚽ Amateur soccer player
-- ✈️ Love exploring new places and experiencing unique adventures
-- 🎮 Player in the TU League of Legends Esports team
+### Outiste Academia
+- Capture The Flag enthusiast and Hack The Box participant
+- Passionate about investing in the stock market
+- Amateur soccer player
+- Love exploring new places and experiencing unique adventures
+- Player in the TU League of Legends Esports team
 
 Feel free to connect and collaborate on cybersecurity projects or research initiatives!
 
