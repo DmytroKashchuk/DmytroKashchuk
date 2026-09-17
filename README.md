@@ -1,5 +1,10 @@
 # 👋 Hello, I'm Dmytro (Dima) Kashchuk
 ## Enterprise Security Researcher
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrokashchuk)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmytrokashchuk)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/387680)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmytroKashchuk)
 
 📧 dmytro-kashchuk@utulsa.edu
 
@@ -68,12 +73,6 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 
 ### 🌱 Currently Learning
 I'm deepening my expertise in advanced cybersecurity techniques, vulnerability scanning, and ethical hacking.
-
-### 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrokashchuk)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmytrokashchuk)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/387680)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmytroKashchuk)
 
 ### ⚡ Outiste Academia
 - 🎮 Capture The Flag enthusiast and Hack The Box participant
