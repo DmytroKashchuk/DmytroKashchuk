@@ -1,11 +1,12 @@
 # Hello, I'm Dmytro (Dima) Kashchuk
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=36BCF7&width=500&lines=Enterprise+Security+Researcher;Software+Supply+Chain+Security;PhD+Student+%40+University+of+Tulsa)](https://github.com/DmytroKashchuk)
+
 [![Email](https://img.shields.io/badge/dmytro--kashchuk%40utulsa.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmytro-kashchuk@utulsa.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrokashchuk)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmytrokashchuk)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/387680)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmytroKashchuk)
 
-## Enterprise Security Researcher
 
 ## What im working on right now
 - **Web Measurement at Scale** — mapping misconfigurations and exposure across the public web
