@@ -59,9 +59,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
   *2024*
 
 ### Skills
-- **Programming Languages:** C#, C++, Python, Java
-- **Web Development:** Frontend and Backend, Networks
-- **Technologies:** MySQL, Android Programming, Blockchain, Cryptography
+- **Programming Languages:** C#, C++, Python, Java, R
 
 ### Experience
 - **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
