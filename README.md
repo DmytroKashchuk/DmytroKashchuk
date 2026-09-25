@@ -48,10 +48,13 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 ### Projects
 - **Java E-commerce Platform**  
   Developed a web-based e-commerce platform using JSP with a real-time chat feature via WebSocket.
+  2020
 - **Telegram Content Crawler**  
   Co-founded a tool to detect and remove illicit (GORE) content from Telegram channels, assisting national and international agencies in preventing the spread of harmful content.
+  2022
 - **Python Financial Planner**  
   Created an expense categorization tool using the LLAMA 3 Model.
+  2024
 
 ### Skills
 - **Programming Languages:** C#, C++, Python, Java
