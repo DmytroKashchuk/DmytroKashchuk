@@ -46,14 +46,14 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 
 
 ### Projects
-- **Java E-commerce Platform**  
+- **LISTS: Java E-commerce Platform**  
   Developed a web-based e-commerce platform using JSP with a real-time chat feature via WebSocket.
   *2020*
   
-- **Telegram Content Crawler**  
-  Co-founded a tool to detect and remove illicit (GORE) content from Telegram channels, assisting national and international agencies in preventing the spread of harmful content.
+- **CRAWLER: Telegram Content Crawler**  
+  Developed a crawler that monitors Telegram channels and uses deep learning models to automatically detect and flag graphic violent content, supporting national and international agencies in limiting the spread of harmful content.
   *2022*
-  
+
 - **Python Financial Planner**  
   Created an expense categorization tool using the LLAMA 3 Model.
   *2024*
@@ -70,7 +70,7 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Cybersecurity Researcher** @ University of Trento | Dec 2024 - Jul 2025 | Trento (TN) - Italy
   Conducted analysis of CORS flaws in top 50K tranco websites and developed a Python scanner to detect CORS misconfiguration that can lead to DoS attacks.
 
-- **Networking Intern** @ University of Trento  | Sep 2020 - Mar 2021 | Trento (TN) - Italy
+- **Embedded Systems Researcher** @ University of Trento  | Sep 2020 - Mar 2021 | Trento (TN) - Italy
   Created a Raspberry Pi-based Smartphones Wi-Fi detection system for disaster response, helping to locate individuals during natural disasters.
 
 - **Internship in Technology and Device Integration** @ Arcese Spa| May 2016 - Aug 2016 | Arco (TN) - Italy
