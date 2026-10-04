@@ -59,8 +59,8 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
   Created an expense categorization tool using the LLAMA 3 Model.
   *2024*
 
-### Skills
-- **Programming Languages:** C#, C++, Python, Java, R
+### Working with
+- C#, C++, Python, Java, R
 
 ### Experience
 - **Graduate Research Assistant** @ The University of Tulsa | Aug 2024 - Present |Tulsa (OK) - USA
