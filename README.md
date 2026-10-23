@@ -21,14 +21,15 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 ### Education
 - **Ph.D. in Cyber Security and Economics**  
   *University of Tulsa, Aug 2024 - Present*  
-  Focus: Software Bill of Materials (SBOM), Large-scale vulnerability scanning and Enterprise Security
+  Focus: Software Bill of Materials (SBOM), Large-scale vulnerability Scanning and Enterprise Security
 
 - **M.S. in Computer Science and Cyber Security**  
-  *University of Trento, Sep 2020 - Jun 2023*  
-  Track: ICT Innovation
+  *University of Trento, Sep 2020 - Jun 2023*   
+  Track: ICT Innovation 
 
 - **B.S. in Information Engineering and Business Organization**  
-  *University of Trento, Dec 2019*
+  *University of Trento, Sep 2016 - Jan 2020*
+  Track: Computer Science
 
 ### Research & Publications
 
