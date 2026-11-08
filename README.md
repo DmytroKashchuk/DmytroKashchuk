@@ -76,6 +76,31 @@ I'm a PhD student in Cyber Security and Economics at the University of Tulsa. Wi
 - **Internship in Technology and Device Integration** @ Arcese Spa| May 2016 - Aug 2016 | Arco (TN) - Italy
   Helped move the company from BlackBerry to Nokia—set up everyone’s phones and configured new network devices to make things faster, more reliable, and more secure.
 
+### Projects I'm involved in
+
+**Project 1: Improving Syft's library detection with Meta Muse Spark.**
+We build an MCP server for Syft that communicates with Meta Muse Spark. The goal is to detect which dependencies are actually executed at runtime, not just those declared in dependency files (e.g., `*-lock.json`). **[Stage: 2/10]**
+
+**Project 2: Ransomware victim selection.**
+We study the leaked chat logs of Conti and Black Basta and the leaked LockBit dataset, and we enrich all victims with CIDB data. **[Stage: 7/10]**
+
+**Project 3: Software supply chain blast radius.**
+We measure the blast radius of a software supply chain compromise, studying how a compromised library reaches the products built on top of it, whether as a direct dependency or deep in the transitive dependency tree. **[Stage: 9/10]**
+
+**Project 4: Cybersecurity disclosures in SEC filings (10-K Item 1C and 8-K Item 1.05).**
+We classify every sentence in these filings from publicly traded companies. **[Stage: ?/10]**
+
+**Project 5: Patch lag.**
+We study the full chain from vulnerability discovery to CVE assignment, patch release, and patch installation, combining multiple data sources into a comprehensive view of the entire chain. **[Stage: 2/10]**
+
+#### Side projects (maybe one day)
+
+**The $6.3 billion Binance hack.**
+What failed and what didn't? Why were some funds frozen while others weren't? The starting point is the list of addresses published by the FBI that hold or have held the stolen funds. **[Stage: 1/10]**
+
+**Supply chain crypto revenue.**
+How much money malware in npm and PyPI makes, tracked through the cryptocurrency earnings of malicious packages.
+
 ### Currently Learning
 I'm deepening my expertise in advanced cybersecurity techniques, vulnerability scanning, and ethical hacking.
 
